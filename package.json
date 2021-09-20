@@ -1,0 +1,12 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-purgecss": "^4.0.3",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.41.1"
+  }
+}
